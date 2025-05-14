@@ -1,10 +1,8 @@
 ## Hi there 👋
-
 <!--
 **Alinase/alinase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
 ## 👩🏽‍💻 About Me
 
 Hey there! 👋 I’m **Alinase Nyirenda** — a 🇿🇲 Zambian tech enthusiast, cybersecurity researcher 🛡️, and entrepreneur 🚀 with a passion for building secure and impactful digital solutions.
 
-I’m the founder of **Ali Tech** 💡, **Lead of Google Developer Group Lusaka** 🌍, and a **Master’s in Cybersecurity** student 🎓. I love mentoring women in tech 👩🏽‍💼, exploring cloud technologies ☁️, and contributing to the developer community ❤️.
+I’m the founder of **Ali Tech** 💡, **Lead of Google Developer Group Lusaka** 🌍, and a **Master’s in Cybersecurity** student 🎓. I love mentoring women in cyber 👩🏽‍💼, exploring cloud technologies ☁️, and contributing to the developer community ❤️.
 
 ---
 
