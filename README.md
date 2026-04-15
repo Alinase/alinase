@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 About Me
 
-Hi! I’m **Alinase Nyirenda** — a 🇿🇲 Zambian-based **Cloud Security Engineer**, **Cybersecurity Researcher** 🛡️, and **Entrepreneur** 🚀 passionate about creating **secure, impactful digital solutions**.
+Hi! I’m **Alinase Nyirenda** a 🇿🇲 Zambian based **Cloud Security Engineer**, **Cybersecurity Researcher** 🛡️, and **Entrepreneur** 🚀 passionate about creating **secure, impactful digital solutions**.
 
 I’m the **Founder of Ali Tech** 💡, **Lead of Google Developer Group Lusaka** 🌍, and currently pursuing my **Master’s in Cybersecurity** 🎓.
 I’m committed to **mentoring women in cyber** 👩🏽‍💼, **exploring cloud technologies** ☁️, and **building strong developer communities** ❤️.
