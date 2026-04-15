@@ -31,7 +31,8 @@ I’m committed to **mentoring women in cyber** 👩🏽‍💼, **exploring clo
 ### 📫 Let’s Connect!
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/alinasenyirenda)
-* 🎥 [YouTube](https://www.youtube.com/@TravelLifestyleWithAlinase) 
+* 🎥 [YouTube](https://www.youtube.com/@TravelLifestyleWithAlinase)
+* 🎓 [Medium](https://alinase.medium.com/)
 
 ---
 
